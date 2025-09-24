@@ -1,11 +1,11 @@
 export const contactsData = {
-    email: 'abusaid7388@gmail.com',
-    phone: '+8801608797655',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-    github: 'https://github.com/said7388',
+    email: 'praveenalexander5@gmail.com',
+    phone: '+91 9841610561',
+    address: 'No 8 Thottam Avenue, Nandivaram, Guducvanchery - 603202 ',
+    github: 'https://github.com/alexcodings-tech'
     facebook: 'https://www.facebook.com/abusaid.riyaz/',
-    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+    linkedIn: 'https://www.linkedin.com/in/praveen-alexander-144038378/',
     twitter: 'https://twitter.com/said7388',
     stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    devUsername: "Praveen Alexander S"
 }
